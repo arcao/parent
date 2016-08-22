@@ -6,7 +6,7 @@
 
 	<groupId>com.arcao</groupId>
 	<artifactId>parent</artifactId>
-	<version>6-SNAPSHOT</version>
+	<version>6</version>
 	<packaging>pom</packaging>
  
 	<name>Arcao repository Parent</name>
@@ -28,7 +28,7 @@
 		<url>http://github.com/arcao/parent</url>
 		<connection>scm:git:http://github.com/arcao/parent.git</connection>
 		<developerConnection>scm:git:git@github.com:arcao/parent.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>parent-6</tag>
   </scm>
 
 	<repositories>
